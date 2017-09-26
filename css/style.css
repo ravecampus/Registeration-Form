@@ -29,14 +29,13 @@ body {
     padding: 6em 0 4.5em;
 }
 .header h1 {
-    font-size: 4.5em;
+    font-size: 6em;
     color: #ffffff;
-    text-shadow: 1px 1px 10px #9a8b89;
+    text-shadow: 5px 5px 10px #000;
     letter-spacing: 4px;
     text-transform: capitalize;
     font-family: 'Aldo the Apache', sans-serif;
-    word-spacing: 7px;
-    letter-spacing: 2px;
+    letter-spacing: 10px;
 	text-align:center
 }
 /*------------------------------------------------------------HEADER(FINISH)-------------------------------------------------------------*/
@@ -52,11 +51,11 @@ body {
     padding: 3em;
 }
 .sub-main-1 h2 {
-    font-size: 3em;
+    font-size: 3.5em;
     color: #fff;
     margin-bottom: 1em;
     margin-top: -0.2em;
-    letter-spacing: 5px;
+    letter-spacing: 9px;
     font-weight: 400;
     text-transform: capitalize;
     text-shadow: 3px 3px 3px #000;
@@ -311,7 +310,7 @@ input.checkbox:checked:after {
 }
 @media(max-width: 1440px){
 	.header h1 {
-		font-size: 2.8em;
+		font-size: 4em;
 	}
 	.wthree-pro h2 {
 		font-size: 1.5em;
@@ -494,3 +493,4 @@ input.checkbox:checked:after {
 	}
 }
 /*------------------------------------------------------RESPONSIVE(FINISH)-----------------------------------------------------------------*/
+
